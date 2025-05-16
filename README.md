@@ -28,10 +28,25 @@ This academic project helps users request help using location data, while admins
 
 ### 📸 Screenshot
 
-![Image](https://github.com/user-attachments/assets/f301764e-4235-437f-adde-f077dfe19d9e)  ![Image](https://github.com/user-attachments/assets/ac2907cd-874c-45ce-a881-f04df51e5080)
-
-![Image](https://github.com/user-attachments/assets/db72a888-24a6-42af-827d-9ace5e2fd3be)  ![Image](https://github.com/user-attachments/assets/0e2739b0-1649-4950-bbc5-ff69131bb890)
-
-![Image](https://github.com/user-attachments/assets/fa47a703-a7a5-415f-8c2b-7a72ea16f874)  ![Image](https://github.com/user-attachments/assets/001b52cb-f79d-4113-ab81-e0c945de3c5c)
-
-![Image](https://github.com/user-attachments/assets/6af4bc2e-ba5a-441f-8cd6-72ead2ef356c)  ![Image](https://github.com/user-attachments/assets/ec55d92c-a05c-45f3-b066-e749b8474147)
+![Image](https://github.com/user-attachments/assets/f301764e-4235-437f-adde-f077dfe19d9e)  
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/ac2907cd-874c-45ce-a881-f04df51e5080)
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/db72a888-24a6-42af-827d-9ace5e2fd3be) 
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/0e2739b0-1649-4950-bbc5-ff69131bb890)
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/fa47a703-a7a5-415f-8c2b-7a72ea16f874)  
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/001b52cb-f79d-4113-ab81-e0c945de3c5c)
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/6af4bc2e-ba5a-441f-8cd6-72ead2ef356c)  
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/ec55d92c-a05c-45f3-b066-e749b8474147)
