@@ -26,6 +26,28 @@ This academic project helps users request help using location data, while admins
 
 ---
 
+## 🚀 How to Run
+
+1. Place the project folder inside `htdocs` of XAMPP
+2. 2. Import the SQL file (`rrh.sql`) into **phpMyAdmin**
+- Create a new database named `rrh`.
+- Import the `.sql` file.
+3. Start **Apache** and **MySQL** in XAMPP.
+4. Visit the project in your browser:
+      http://localhost/RRH/
+
+---
+
+## 🔐 Credentials 
+
+Pre-configured login details:
+
+```text
+Username: admin
+Password: admin123
+
+---
+
 ### 📸 Screenshot
 
 ![Image](https://github.com/user-attachments/assets/f301764e-4235-437f-adde-f077dfe19d9e)  
