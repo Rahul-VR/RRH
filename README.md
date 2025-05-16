@@ -45,6 +45,7 @@ Pre-configured login details:
 ```text
 Username: admin
 Password: admin123
+text```
 
 ---
 
