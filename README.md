@@ -38,7 +38,7 @@ This academic project helps users request help using location data, while admins
 
 ---
 
-## 🔐 Credentials 
+### 🔐 Credentials 
 
 Pre-configured login details:
 
