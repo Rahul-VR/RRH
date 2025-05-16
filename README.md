@@ -29,6 +29,9 @@ This academic project helps users request help using location data, while admins
 ### 📸 Screenshot
 
 ![Image](https://github.com/user-attachments/assets/f301764e-4235-437f-adde-f077dfe19d9e)  
+
+---
+
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
 ![Image](https://github.com/user-attachments/assets/ac2907cd-874c-45ce-a881-f04df51e5080)
