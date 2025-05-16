@@ -42,10 +42,8 @@ This academic project helps users request help using location data, while admins
 
 Pre-configured login details:
 
-```text
 Username: admin
 Password: admin123
-text```
 
 ---
 
